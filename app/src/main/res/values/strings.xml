@@ -3,5 +3,8 @@
     <string name="helloText">Hello Class!</string>
     <string name="textNumber">Number</string>
     <string name="rollDice">Please Roll!</string>
+    <string name="rollButton">Roll</string>
+    <string name="numberText">Roll Dice</string>
+    <string name="playerName">Player 1</string>
 
 </resources>
